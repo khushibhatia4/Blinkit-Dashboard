@@ -180,6 +180,4 @@ Aspiring Data Analyst | Power BI | Data Analytics
 
 ---
 
-# 📌 Project Preview
 
-*(Add your dashboard screenshot here)*
